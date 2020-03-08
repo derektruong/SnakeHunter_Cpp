@@ -1,0 +1,15 @@
+﻿  SnakeHunter.cpp
+F:\Projects\SnakeHunter\SnakeHunter\myheader.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\Projects\SnakeHunter\SnakeHunter\myheader.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(166,27): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(166,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(167,27): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(167,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(168,27): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(168,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(169,27): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(169,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(182,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Projects\SnakeHunter\SnakeHunter\SnakeHunter.cpp(234): warning C4715: 'checkhit': not all control paths return a value
+  SnakeHunter.vcxproj -> F:\Projects\SnakeHunter\SnakeHunter\Debug\SnakeHunter.exe
